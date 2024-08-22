@@ -2,4 +2,4 @@
 
 Um projeto do curso.dev
 
-by Gabriel
+by Gabriel Gesser
